@@ -3,4 +3,4 @@
 [google](https://www.google.com)
 
 
-!(zdjecie)(/.jpeg)
+![zdjecie](images.jpeg)
