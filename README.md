@@ -1,1 +1,1 @@
-# BoguslawWiktorko.github
+# BoguslawWiktorko.github.io
